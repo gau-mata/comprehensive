@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="88516" started-at="2021-09-26T15:58:32Z" finished-at="2021-09-26T16:00:00Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.urbanladder.runner.runner@769f71a9]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Test" duration-ms="88516" started-at="2021-09-26T15:58:32Z" finished-at="2021-09-26T16:00:00Z">
+      <class name="com.urbanladder.runner.runner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.urbanladder.runner.runner@769f71a9]" name="setUpClass" is-config="true" duration-ms="538" started-at="2021-09-26T21:28:32Z" finished-at="2021-09-26T21:28:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.urbanladder.runner.runner@769f71a9]" name="runScenario" duration-ms="20781" started-at="2021-09-26T21:28:32Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T21:28:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Home page default login"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Urban Ladder]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.urbanladder.runner.runner@769f71a9]" name="runScenario" duration-ms="2846" started-at="2021-09-26T21:28:53Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T21:28:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["searching"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Urban Ladder]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.urbanladder.runner.runner@769f71a9]" name="runScenario" duration-ms="9604" started-at="2021-09-26T21:28:56Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T21:29:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["sale"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Urban Ladder]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.urbanladder.runner.runner@769f71a9]" name="runScenario" duration-ms="8539" started-at="2021-09-26T21:29:05Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T21:29:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["living"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Urban Ladder]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.urbanladder.runner.runner@769f71a9]" name="runScenario" duration-ms="8416" started-at="2021-09-26T21:29:14Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T21:29:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["bedroom"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Urban Ladder]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.urbanladder.runner.runner@769f71a9]" name="runScenario" duration-ms="8397" started-at="2021-09-26T21:29:22Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T21:29:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["storage"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Urban Ladder]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.urbanladder.runner.runner@769f71a9]" name="runScenario" duration-ms="8818" started-at="2021-09-26T21:29:31Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T21:29:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["study"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Urban Ladder]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.urbanladder.runner.runner@769f71a9]" name="runScenario" duration-ms="8252" started-at="2021-09-26T21:29:40Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T21:29:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["kids room"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Urban Ladder]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.urbanladder.runner.runner@769f71a9]" name="runScenario" duration-ms="9815" started-at="2021-09-26T21:29:48Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T21:29:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["gift cards"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Urban Ladder]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.urbanladder.runner.runner@769f71a9]" name="runScenario" duration-ms="2440" started-at="2021-09-26T21:29:58Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T21:30:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["bulk orders"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Urban Ladder]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.urbanladder.runner.runner@769f71a9]" name="tearDownClass" is-config="true" duration-ms="51" started-at="2021-09-26T21:30:00Z" finished-at="2021-09-26T21:30:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.urbanladder.runner.runner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
